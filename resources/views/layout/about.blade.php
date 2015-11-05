@@ -9,14 +9,14 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+                    <p>Grubify is our take on simplifing and personalizing the process of getting something to eat. Create an account today to start enhancing your grubbing experiences!</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
+                    <p>Grubify is open-source! <a href="https://github.com/Oliver16/Grubify">Fork the Grubify repo</a> on Github to start contributing to the project!</p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <a href="#" class="btn btn-lg btn-outline">
-                        <i class="fa fa-download"></i> Download Theme
+                        <i class="button"></i> Get Started!
                     </a>
                 </div>
             </div>

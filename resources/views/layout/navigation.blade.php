@@ -19,7 +19,7 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#getstarted">Get Started</a>
+                        <a href="#portfolio">Features</a>
                     </li>
                     <li class="page-scroll">
                         <a href="#about">About</a>

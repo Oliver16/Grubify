@@ -14,5 +14,6 @@
         @include('layout.navigation')
         @include('layout.header')
         @include('layout.script')
+        
     </body>
 </html>

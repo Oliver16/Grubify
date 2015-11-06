@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#page-top">Simplify your grubbing experience.</a>
+                <a class="navbar-brand" href="#page-top">Grubbing, simplified.</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -26,6 +26,12 @@
                     </li>
                     <li class="page-scroll">
                         <a href="#contact">Contact</a>
+                    </li>
+                     <li class="button">
+                        <a href="/auth/login">Login</a>
+                    </li>
+                     <li class="active">
+                        <a href="/auth/register">Register</a>
                     </li>
                 </ul>
             </div>

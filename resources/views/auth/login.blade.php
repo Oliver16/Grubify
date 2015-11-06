@@ -1,6 +1,11 @@
 @extends('layout.master')
 
 @section('content')
+<div style="
+  position:relative;
+  top:50%;
+  transform: translateY(50%);
+   ">
 <div class="container-fluid">
 	<div class="row">
         
@@ -61,6 +66,7 @@
 </div>
 </div>
 
+</div>
 </div>
 </div>
 

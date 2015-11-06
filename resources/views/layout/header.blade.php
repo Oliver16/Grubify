@@ -6,7 +6,7 @@
                     <div class="intro-text">
                         <span class="name">Grubify</span>
                         <hr class="star-light">
-                        <span class="skills">Grub Establishment Ranking Done Right.</span>
+                        <span class="skills">Food establishment ranking done right.</span>
                     </div>
                 </div>
             </div>

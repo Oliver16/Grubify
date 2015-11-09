@@ -1,4 +1,4 @@
-## Grubify 
+# Grubify 
 
 ## Major Features to Implement
 

@@ -15,8 +15,25 @@ Route::get('/', function () {
     return view('home');
 });
 
+Route::get('/home', function (){
+        return Redirect::to('app');
+});
+
+
 Route::get('/app', function (){
         return view('app');
+});
+
+Route::get('/map', function (){
+        return view('app.map');
+});
+
+Route::get('/list', function (){
+        return view('app.list');
+});
+
+Route::get('/settings', function (){
+        return view('app.settings');
 });
 
 // Authentication routes...

@@ -2,6 +2,6 @@
 @section('content')
 	@include('app.header')
 	@include('app.sidebar')
-	@include('app.content')
+//insert view
 	@include('app.footer')
 @endsection

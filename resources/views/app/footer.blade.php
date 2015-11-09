@@ -1,8 +1,9 @@
  <!--footer start-->
       <footer class="site-footer">
           <div class="text-center">
-              2014 - Alvarez.is
-              <a href="blank.html#" class="go-top">
+             <p> 2015 - Grubify
+             <p> All Rights Reserved - HtmlBytes Studios
+              <a href="/app#" class="go-top">
                   <i class="fa fa-angle-up"></i>
               </a>
           </div>

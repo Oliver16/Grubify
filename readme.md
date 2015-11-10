@@ -18,7 +18,7 @@ This function will allow users to set extensive restaurant filtering preferences
  --
 Allows Users/Admins to communicate.
 
-*Rating Algorithm and Individual Restaurant View
+* Rating Algorithm and Individual Restaurant Modal
   --
 The core feature of the application. 
 

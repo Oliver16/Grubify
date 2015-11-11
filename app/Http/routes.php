@@ -1,5 +1,5 @@
 <?php
-
+use App\Ratings;
 /*
 |--------------------------------------------------------------------------
 | Application Routes
@@ -29,7 +29,7 @@ Route::get('/map', function (){
 });
 
 Route::get('/list', function (){
-        return view('app.list');
+        return View::make('app.list')->with('ratings', Ratings::all());
 });
 
 Route::get('/settings', function (){

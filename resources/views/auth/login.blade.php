@@ -1,6 +1,7 @@
 @extends('layout.master')
 
 @section('content')
+
 <div style="
   position:relative;
   top:50%;

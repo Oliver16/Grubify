@@ -15,8 +15,8 @@
                     <p>Grubify is open-source! <a href="https://github.com/Oliver16/Grubify">Fork the Grubify repo</a> on Github to start contributing to the project!</p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="#" class="btn btn-lg btn-outline">
-                        <i class="button"></i> Get Started!
+                    <a href="/auth/register" class="btn btn-lg btn-outline">
+                        <i class="button" ></i> Get Started!
                     </a>
                 </div>
             </div>
